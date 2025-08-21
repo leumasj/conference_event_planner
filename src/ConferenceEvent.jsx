@@ -89,7 +89,7 @@ const ConferenceEvent = () => {
                              <div id="venue" className="venue_container container_main">
         <div className="text">
  
-          <h1>Venue Room Selection</h1>
+          <h1>Venues Room Selection</h1>
         </div>
         <div className="venue_selection">
           {venueItems.map((item, index) => (
